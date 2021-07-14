@@ -1,0 +1,17 @@
+h1{
+    color: aquamarine;
+}
+.header{
+    display: flex;
+    justify-content:  space-between;
+    background-color: honeydew;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
+
